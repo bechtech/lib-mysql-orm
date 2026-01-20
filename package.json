@@ -1,0 +1,28 @@
+{
+  "name": "lib-mysql-orm",
+  "version": "1.0.1",
+  "description": "mysql orm tools",
+  "keywords": [
+    "mysql",
+    "orm"
+  ],
+  "homepage": "https://github.com/bechtech/lib-mysql-orm#readme",
+  "bugs": {
+    "url": "https://github.com/bechtech/lib-mysql-orm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bechtech/lib-mysql-orm.git"
+  },
+  "license": "MIT",
+  "author": "tangc",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mysql2": "^3.16.1",
+    "sequelize": "^6.37.7"
+  }
+}
